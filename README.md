@@ -3,8 +3,8 @@ Calculates the best-fit linear relation for a series of data points.
 
 Input is given as:
 
-filename.csv  
-number of data points  
+filename.csv   
+number of data points   
 x_1 y_1 err_x_1 err_y_1   
 .  
 .  
